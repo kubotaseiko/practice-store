@@ -1,0 +1,2 @@
+module Adimin::ProductsHelper
+end
